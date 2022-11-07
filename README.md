@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Meet me at my <a rel="me" href="https://social.dytrych.cloud/@jan">Mastodon</a>!
+
 <!--
 **JohnySeven/JohnySeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
